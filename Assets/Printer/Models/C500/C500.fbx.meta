@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: b04149e8e15db7b4aa0b704a873d578f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: decals
+    100004: EC
+    100006: mesh_grid
+    100008: Scitex1
+    100010: Scitex3
+    100012: Scitex4
+    100014: scitex_main
+    100016: Object001
+    100018: scitex
+    100020: Imported1
+    100022: Imported1 1
+    100024: Object002
+    100026: Object003
+    100028: BRep_2
+    100030: MediaStopperWall
+    100032: RejectCart
+    100034: WasteCart
+    400000: //RootNode
+    400002: decals
+    400004: EC
+    400006: mesh_grid
+    400008: Scitex1
+    400010: Scitex3
+    400012: Scitex4
+    400014: scitex_main
+    400016: Object001
+    400018: scitex
+    400020: Imported1
+    400022: Imported1 1
+    400024: Object002
+    400026: Object003
+    400028: BRep_2
+    400030: MediaStopperWall
+    400032: RejectCart
+    400034: WasteCart
+    2100000: 'Material #5382'
+    2100002: CoversWhite
+    2100004: lambert3
+    2100006: scitex_low1_MAT3
+    2100008: detailsMAt
+    2100010: StackerBillboard
+    2100012: scitex_low2_MAT2
+    2100014: CoversGrey Trans
+    2100016: grid_mat
+    2100018: LC Yellow
+    2100020: MedialStopperWall
+    2100022: 'Material #5842'
+    2100024: RejectCart
+    2100026: Chrome
+    2300000: decals
+    2300002: EC
+    2300004: mesh_grid
+    2300006: Scitex1
+    2300008: Scitex3
+    2300010: Scitex4
+    2300012: Object001
+    2300014: Imported1
+    2300016: Imported1 1
+    2300018: Object002
+    2300020: Object003
+    2300022: BRep_2
+    2300024: WasteCart
+    3300000: decals
+    3300002: EC
+    3300004: mesh_grid
+    3300006: Scitex1
+    3300008: Scitex3
+    3300010: Scitex4
+    3300012: Object001
+    3300014: Imported1
+    3300016: Imported1 1
+    3300018: Object002
+    3300020: Object003
+    3300022: BRep_2
+    3300024: WasteCart
+    4300000: Scitex3
+    4300002: Scitex1
+    4300004: Scitex4
+    4300006: EC
+    4300008: mesh_grid
+    4300010: decals
+    4300012: Object001
+    4300014: Object003
+    4300016: Object002
+    4300018: Imported1
+    4300020: BRep_2
+    4300022: WasteCart
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: f95d5f7fc9a17194c8f7c5b9c64f947a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CoversGrey Trans
+    second: {fileID: 2100000, guid: cb5b6a3103cd9254880eef7e871b298a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CoversWhite
+    second: {fileID: 2100000, guid: 11d8512bac083e14f8d2c474a1e68d78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LC Yellow
+    second: {fileID: 2100000, guid: 74a9da87f7b35524ea20438723904783, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #5382'
+    second: {fileID: 2100000, guid: 1e218169dd2fde3449b1b5c05e6de427, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #5842'
+    second: {fileID: 2100000, guid: b1b361e8bae9720428a8ef729e3cd94b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MedialStopperWall
+    second: {fileID: 2100000, guid: 2fa4ef80f845a734d8a428c0c287baf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RejectCart
+    second: {fileID: 2100000, guid: 7df74afa84c69404096f4a2e79e920a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StackerBillboard
+    second: {fileID: 2100000, guid: c4095df88ced57847842c9e3eda1536d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: detailsMAt
+    second: {fileID: 2100000, guid: 429d34e760500c84e9c218e8645ff4ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grid_mat
+    second: {fileID: 2100000, guid: 1bce237511902244dad99a28b319f99b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 57e1926115662954aba08508895e04eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: scitex_low1_MAT3
+    second: {fileID: 2100000, guid: 28717a3e1397d284f823e465395dd463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: scitex_low2_MAT2
+    second: {fileID: 2100000, guid: 88981003f3373524395d4c13fd771f8a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C500_Color
+    second: {fileID: 2800000, guid: 230e8c35cde54aa4dbaa387f3135661c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MediaStopperWallLow_DefaultMaterial_AlbedoTransparency
+    second: {fileID: 2800000, guid: ccceef2585160ee419e1f11fcbba6ebb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MediaStopperWallLow_DefaultMaterial_Normal
+    second: {fileID: 2800000, guid: 8394a35cf2625e94daffbc2c165afb49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RejectCartLow_RejectCart_AlbedoTransparency
+    second: {fileID: 2800000, guid: cdac748680cb72145aadeb32276b6bda, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RejectCartLow_RejectCart_MetallicSmoothness
+    second: {fileID: 2800000, guid: dff7c99b0789ebe4fad884b4db322836, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RejectCartLow_RejectCart_Normal
+    second: {fileID: 2800000, guid: 196381f03ded84247a2aa42cd30bf670, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shape055_Color
+    second: {fileID: 2800000, guid: d5a58a8abaf308a41aff827476f4a916, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shape055_Metalness
+    second: {fileID: 2800000, guid: 5759307eb27b36a46ae2742c80daed5d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shape055_Normal
+    second: {fileID: 2800000, guid: 5e987dcc5257e324db5ca7c4ad154bcd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shape055_Roughness
+    second: {fileID: 2800000, guid: 8a933154e46b29c4a9a8b87010a65324, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StackerBillboardCO
+    second: {fileID: 2800000, guid: 146e80eb8eb21b4428be5e097e012961, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StackerBillboardMetalic
+    second: {fileID: 2800000, guid: f1c67800716dd5c468eb2a95ea5736b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StackerBillboardNM
+    second: {fileID: 2800000, guid: b87d9b37d6b7a5346829d60efc6e294d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: c500_Metalness
+    second: {fileID: 2800000, guid: d82a59b2093462441a0d8f8d4dca1ca5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: c500_Roughness
+    second: {fileID: 2800000, guid: 2d5c1cb8394e7ac4f83d657d5217dfb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: scitex_export1from3dcoat_Albedo
+    second: {fileID: 2800000, guid: 340ac024fd174704691be023bb4d19ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: scitex_export_details
+    second: {fileID: 2800000, guid: 65d6755e6b03f064d838a16de00fe39c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: scitex_gridtexture
+    second: {fileID: 2800000, guid: 5fb9ea90cd13c47438d4ee1c47944182, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: scitex_scitex_low1_MAT1_Albedo
+    second: {fileID: 2800000, guid: b3e045e5abb2b434ba42d7d1e7c05925, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: scitex_scitex_low2_MAT1_Albedo
+    second: {fileID: 2800000, guid: dcbaee0adeff1ae44b7ac2ce72394e4b, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 76806c937b7c8e34cbf51cb45b8de48f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ACcooling_Unit
+    100002: dryer_cabinet
+    100004: dryer_chiller
+    100006: Ink_Farm_obj
+    100008: //RootNode
+    100010: VacuumPump
+    100012: ACcooling_Unit1
+    100014: dryer_cabinet1
+    100016: dryer_cabinet12
+    100018: dryer_cabinet13
+    100020: dryer_chiller1
+    100022: Ink_Farm_obj1
+    100024: transform1
+    100026: transform2
+    100028: transform3
+    100030: transform4
+    100032: Vacumn_mesh_planes
+    100034: VacuumPump_Group
+    100036: ACcooling_Unit_connections_obj
+    100038: dryer_cabinet_connections_obj
+    100040: dryer_chiller_connections_obj
+    100042: Ink_Farm_connections_obj
+    100044: C500_Feb2020_extracted_box
+    400000: ACcooling_Unit
+    400002: dryer_cabinet
+    400004: dryer_chiller
+    400006: Ink_Farm_obj
+    400008: //RootNode
+    400010: VacuumPump
+    400012: ACcooling_Unit1
+    400014: dryer_cabinet1
+    400016: dryer_cabinet12
+    400018: dryer_cabinet13
+    400020: dryer_chiller1
+    400022: Ink_Farm_obj1
+    400024: transform1
+    400026: transform2
+    400028: transform3
+    400030: transform4
+    400032: Vacumn_mesh_planes
+    400034: VacuumPump_Group
+    400036: ACcooling_Unit_connections_obj
+    400038: dryer_cabinet_connections_obj
+    400040: dryer_chiller_connections_obj
+    400042: Ink_Farm_connections_obj
+    400044: C500_Feb2020_extracted_box
+    2100000: HPseparates_MAT
+    2100002: mesh_mat
+    2100004: Scitex_connections_MAT
+    2300000: ACcooling_Unit
+    2300002: dryer_cabinet
+    2300004: dryer_chiller
+    2300006: Ink_Farm_obj
+    2300008: VacuumPump
+    2300010: ACcooling_Unit1
+    2300012: dryer_cabinet1
+    2300014: dryer_chiller1
+    2300016: Ink_Farm_obj1
+    2300018: Vacumn_mesh_planes
+    2300020: ACcooling_Unit_connections_obj
+    2300022: dryer_cabinet_connections_obj
+    2300024: dryer_chiller_connections_obj
+    2300026: Ink_Farm_connections_obj
+    2300028: C500_Feb2020_extracted_box
+    3300000: ACcooling_Unit
+    3300002: dryer_cabinet
+    3300004: dryer_chiller
+    3300006: Ink_Farm_obj
+    3300008: VacuumPump
+    3300010: ACcooling_Unit1
+    3300012: dryer_cabinet1
+    3300014: dryer_chiller1
+    3300016: Ink_Farm_obj1
+    3300018: Vacumn_mesh_planes
+    3300020: ACcooling_Unit_connections_obj
+    3300022: dryer_cabinet_connections_obj
+    3300024: dryer_chiller_connections_obj
+    3300026: Ink_Farm_connections_obj
+    3300028: C500_Feb2020_extracted_box
+    4300000: Ink_Farm_obj
+    4300002: VacuumPump
+    4300004: ACcooling_Unit
+    4300006: dryer_chiller
+    4300008: dryer_cabinet
+    4300010: dryer_cabinet1
+    4300012: dryer_chiller1
+    4300014: Ink_Farm_obj1
+    4300016: ACcooling_Unit1
+    4300018: Vacumn_mesh_planes
+    4300020: dryer_cabinet_connections_obj
+    4300022: dryer_chiller_connections_obj
+    4300024: Ink_Farm_connections_obj
+    4300026: ACcooling_Unit_connections_obj
+    4300028: C500_Feb2020_extracted_box
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: scitex2_separates_albedo
+    second: {fileID: 2800000, guid: 6407eca702ac78c4e98a151c395f641b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: scitex_gridtexture
+    second: {fileID: 2800000, guid: a7108f6fbfd26a5409027ba0037f253a, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
